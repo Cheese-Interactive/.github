@@ -1,5 +1,7 @@
 ## Welcome to Cheese Interactive
-we make the best games known to mankind
+
+
+At Cheese Interactive, we seek to forge new limits for your imagination one level at a time. 
 
 <!--
 
