@@ -1,7 +1,6 @@
 ## Welcome to Cheese Interactive
 
-
-At Cheese Interactive, we seek to forge new limits for your imagination, one level at a time. 
+Forging imaginations, one level at a time.
 
 <!--
 
